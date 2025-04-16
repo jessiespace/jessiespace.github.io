@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on JESSIE&#39;s Space</title>
+    <link>https://jessiespace.github.io/tags/</link>
+    <description>Recent content in Tags on JESSIE&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jessiespace.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>https://jessiespace.github.io/tags/game/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jessiespace.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://jessiespace.github.io/tags/new/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jessiespace.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://jessiespace.github.io/tags/photos/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jessiespace.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://jessiespace.github.io/tags/python/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jessiespace.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://jessiespace.github.io/tags/react/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jessiespace.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

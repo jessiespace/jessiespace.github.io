@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>閱讀書摘 on JESSIE&#39;s Space</title>
+    <link>http://localhost:1313/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/</link>
+    <description>Recent content in 閱讀書摘 on JESSIE&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%96%B1%E8%AE%80%E6%9B%B8%E6%91%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《人際關係，99% 從聊天開始》閱讀書摘</title>
+      <link>http://localhost:1313/blog/post-4/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-4/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;p&gt;¶ Attention（開場前聲明）&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
